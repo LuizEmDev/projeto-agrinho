@@ -1,2 +1,26 @@
 @charset "UTF-8";
 
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1,p{
+    color: white;
+}
+
+header > h1,p{
+    text-align: center;
+}
+
+header{
+    
+}
+
+body{
+    background-color: #737F7C;
+}
+
+header{
+    background-color: #547B35;
+}
