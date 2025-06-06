@@ -12,6 +12,8 @@ A proposta é demonstrar, por meio de um site 100% feito com HTML e CSS, como o 
 - CSS3  
 - ❌ Sem JavaScript (requisito do Agrinho)
 
+---
+
 
 
 
@@ -31,6 +33,8 @@ Cada evento inclui: descrição, local, época do ano e links oficiais para apro
 📌 Objetivo
 
 Mostrar que o campo e a cidade não competem, eles se completam.
+
+---
 
 
 👤 Autoria
