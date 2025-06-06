@@ -12,16 +12,9 @@ A proposta é demonstrar, por meio de um site 100% feito com HTML e CSS, como o 
 - CSS3  
 - ❌ Sem JavaScript (requisito do Agrinho)
 
----
-
-## 📁 Estrutura do Projeto
 
 
-├── index.html         # Página principal com introdução e contexto histórico
-├── eventos.html       # Página com eventos que conectam campo e cidade
-├── style.css          # Estilo exclusivo da página principal
-├── event.css          # Estilo exclusivo da página de eventos
-└── /assets            # Imagens e recursos visuais
+
 
 🌐 Conteúdo das Páginas
 
