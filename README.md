@@ -14,14 +14,9 @@ A proposta é demonstrar, por meio de um site 100% feito com HTML e CSS, como o 
 
 ---
 
-## 📁 Estrutura do Projeto
 
 
-├── index.html         # Página principal com introdução e contexto histórico
-├── eventos.html       # Página com eventos que conectam campo e cidade
-├── style.css          # Estilo exclusivo da página principal
-├── event.css          # Estilo exclusivo da página de eventos
-└── /assets            # Imagens e recursos visuais
+
 
 🌐 Conteúdo das Páginas
 
@@ -39,6 +34,8 @@ Cada evento inclui: descrição, local, época do ano e links oficiais para apro
 
 Mostrar que o campo e a cidade não competem, eles se completam.
 
+---
+
 
 👤 Autoria
 
@@ -49,6 +46,8 @@ Escola: Colégio Estadual Urbano Pedroni
 Município: Floraí – PR
 
 Ano: 2025
+
+---
 
 
 📎 Observações
